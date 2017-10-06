@@ -11,3 +11,4 @@ for element in a:
 
 for element in b:
     print element
+
