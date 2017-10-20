@@ -1,7 +1,9 @@
 #!/usr/bin/python
 
-s = "hello world"
+#s = "hello world"
 d = {}
+s = range(10)
+s.append(2)
 
 # count the number of times each character occurs in a string
 for c in s:
